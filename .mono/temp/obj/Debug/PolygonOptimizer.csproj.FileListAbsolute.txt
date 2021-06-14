@@ -1,0 +1,8 @@
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\bin\Debug\PolygonOptimizer.dll
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\bin\Debug\PolygonOptimizer.pdb
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\obj\Debug\PolygonOptimizer.csproj.AssemblyReference.cache
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\obj\Debug\PolygonOptimizer.AssemblyInfoInputs.cache
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\obj\Debug\PolygonOptimizer.AssemblyInfo.cs
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\obj\Debug\PolygonOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\obj\Debug\PolygonOptimizer.dll
+C:\Users\pierr\Documents\Godot\PolygonOptimizer\.mono\temp\obj\Debug\PolygonOptimizer.pdb

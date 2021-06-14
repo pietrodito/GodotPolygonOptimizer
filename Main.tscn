@@ -22,7 +22,6 @@ script = ExtResource( 2 )
 
 [node name="Player" type="KinematicBody2D" parent="."]
 script = ExtResource( 4 )
-gravity = 100
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
 shape = SubResource( 1 )

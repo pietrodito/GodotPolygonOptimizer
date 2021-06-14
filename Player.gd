@@ -1,9 +1,7 @@
 extends KinematicBody2D
 
-export var max_speed := 500
-export var gravity := 1 
-export var immune_to_hourglass := false
-export var _up := Vector2.UP
+export var max_speed := 50
+export var gravity := 10 
 var _gravity_direction := Vector2.DOWN
 
 var _velocity := Vector2.ZERO
@@ -17,7 +15,8 @@ func _physics_process(delta: float) -> void:
 	__move()
 
 func __get_direction() -> void:
-	pass
+	_direction.x = Input.is_key_pressed(KEY_RIGHT) as int - Input.is_key_pressed(KEY_LEFT) as int
+
 
 func __apply_gravity(delta: float) -> void:
 	_velocity.y += _gravity_direction.y * gravity * delta
